@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/brentalangdon/Sample%20Project/_apis/build/status/brent-langdon.pipelines-java?branchName=master)](https://dev.azure.com/brentalangdon/Sample%20Project/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
